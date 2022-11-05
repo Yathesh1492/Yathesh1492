@@ -1,16 +1,32 @@
-### Hi there 
+### Hi there 👋<h2> I'm Yathesh</h2>
 
-<!--
-**Yathesh1492/Yathesh1492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+<h3> 👨🏻•💻 About Me </h3>
 
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 
--->HACKERRANK: https://www.hackerrank.com/ty6698
-🌱 I’m currently studying in SRM UNIVERSITY
+
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at srm university.
+
+- ✍️ &nbsp; Pursuing Web Development.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript 
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS 
+
+<hr>
+
+
