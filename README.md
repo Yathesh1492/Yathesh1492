@@ -1,3 +1,3 @@
-Hi👋, I'm Tanguturi Yathesh 
+Hi👋, I am  Tanguturi Yathesh 
 
 
