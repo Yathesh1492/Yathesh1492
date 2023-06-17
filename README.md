@@ -1,5 +1,5 @@
 Hi👋, I'm  Tanguturi Yathesh 
-# My GitHub Stats  📊:
+# My GitHub Stats  📊 :
 [![GitHub Streak](https://streak-stats.demolab.com?user=yathesh1492&theme=highcontrast)](https://git.io/streak-stats)
 ![Github Status](https://github-readme-stats.vercel.app/api?username=yathesh1492&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yathesh1492&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
